@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{82AEA6AF-747D-4207-A6E9-5A381AFD4CC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCode", "ZipCode\ZipCode.csproj", "{C5056AE0-D63E-48F0-855C-A6C9F108D598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{82AEA6AF-747D-4207-A6E9-5A381AFD4CC9}.Debug|x86.Build.0 = Debug|x86
 		{82AEA6AF-747D-4207-A6E9-5A381AFD4CC9}.Release|x86.ActiveCfg = Release|x86
 		{82AEA6AF-747D-4207-A6E9-5A381AFD4CC9}.Release|x86.Build.0 = Release|x86
+		{C5056AE0-D63E-48F0-855C-A6C9F108D598}.Debug|x86.ActiveCfg = Debug|x86
+		{C5056AE0-D63E-48F0-855C-A6C9F108D598}.Debug|x86.Build.0 = Debug|x86
+		{C5056AE0-D63E-48F0-855C-A6C9F108D598}.Release|x86.ActiveCfg = Release|x86
+		{C5056AE0-D63E-48F0-855C-A6C9F108D598}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
