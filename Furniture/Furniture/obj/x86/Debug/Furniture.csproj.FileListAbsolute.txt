@@ -1,0 +1,7 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\Furniture\bin\Debug\Furniture.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Furniture\bin\Debug\Furniture.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\Furniture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\AppData\Local\Temporary Projects\Furniture\obj\x86\Debug\Furniture.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Furniture\obj\x86\Debug\Furniture.pdb
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\Furniture\Furniture\obj\x86\Debug\Furniture.exe
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\Furniture\Furniture\obj\x86\Debug\Furniture.pdb
