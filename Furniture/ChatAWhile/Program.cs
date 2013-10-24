@@ -9,6 +9,9 @@ namespace ChatAWhile
     {
         static void Main(string[] args)
         {
+            string rate;
+            string area;
+            string time;
             Console.WriteLine("--------------------------------");
             Console.WriteLine("|    Available zip codes:      |");
             Console.WriteLine("--------------------------------");
@@ -22,9 +25,14 @@ namespace ChatAWhile
             Console.WriteLine("|   920    |    0.14           |");
             Console.WriteLine("--------------------------------");
             Console.WriteLine("Please enter your area code down below to get the rates");
-            string area = Console.ReadLine();
+            area = Console.ReadLine();
             Console.WriteLine("Please enter the amount of time your will be talking for");
-            string time = Console.ReadLine();
+            time = Console.ReadLine();
+
+            if (area == "262")
+            {
+                rate = time * 0.07;
+            }
 
 
 
