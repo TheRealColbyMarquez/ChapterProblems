@@ -9,33 +9,30 @@ namespace ZipCode
     {
         static void Main(string[] args)
         {
-            int[] zip = new int[10];
-            zip[0] = 18040;
-            zip[1] = 18041;
-            zip[2] = 18042;
-            zip[3] = 18043;
-            zip[4] = 18044;
-            zip[5] = 18045;
-            zip[6] = 18046;
-            zip[7] = 18047;
-            zip[8] = 18048;
-            zip[9] = 18049;
+            int counter = 0;
+            string entry;
+            int[] zip = new int[10] { 18040, 18041, 18042, 18043, 18044, 18045, 18046, 18047, 18048, 18049 };
 
-            Console.WriteLine("Please enter your zip code:");
-            string entry = Console.ReadLine();
-            for (int i = 0; i < zip.Count(); i++)
+            for (int i = 0; i < zip.Length; i++)
             {
-                if (entry == zip[i].ToString())
-                {
-                    Console.WriteLine("The delivery company will deliver to you");
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("The delivery company cannot deliver to you");
-                    break;
-                }
+                Console.WriteLine(zip[i]);
+            }
+            while (counter < zip.Length)
+            {
+                Console.WriteLine(zip[counter]);
+                counter++;
+            }
+            Console.WriteLine("Enter your zipcode");
+            entry = Console.ReadLine();
+
+            if(entry != "18040" && entry != "18041"  && entry != "18042" && entry != "18043" && entry != "18044" && entry != "18045" && entry != "18046" && entry != "18047" && entry != "18048" && entry != "18049")
+            {
+                Console.WriteLine("Sorry, we do not deliver to your location");
+            }
+            else
+            {
+                Console.WriteLine("We can deliver to your location");
+            }
             }
         }
     }
-}
