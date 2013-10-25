@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Exponent\bin\Debug\Exponent.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Exponent\bin\Debug\Exponent.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Exponent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Exponent\obj\x86\Debug\Exponent.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Exponent\obj\x86\Debug\Exponent.pdb

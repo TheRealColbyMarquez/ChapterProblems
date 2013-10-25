@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Monogram\bin\Debug\Monogram.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Monogram\bin\Debug\Monogram.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Monogram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Monogram\obj\x86\Debug\Monogram.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Monogram\obj\x86\Debug\Monogram.pdb

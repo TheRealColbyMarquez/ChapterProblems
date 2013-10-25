@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCode", "ZipCode\ZipCode.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile", "ChatAWhile\ChatAWhile.csproj", "{B231917F-D2DD-41C1-9BBB-C39E2828A09C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commission", "Commission\Commission.csproj", "{C2D6C8C1-D73A-4211-8552-DDEE278AE283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogram.csproj", "{69A0CBE9-14D4-49E7-A9C7-4E8B8BA7A7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent", "Exponent\Exponent.csproj", "{8ADBEA23-A4AE-459A-AA70-F6D41710293F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{CB242785-DADD-409F-A413-C7324D293638}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +33,22 @@ Global
 		{B231917F-D2DD-41C1-9BBB-C39E2828A09C}.Debug|x86.Build.0 = Debug|x86
 		{B231917F-D2DD-41C1-9BBB-C39E2828A09C}.Release|x86.ActiveCfg = Release|x86
 		{B231917F-D2DD-41C1-9BBB-C39E2828A09C}.Release|x86.Build.0 = Release|x86
+		{C2D6C8C1-D73A-4211-8552-DDEE278AE283}.Debug|x86.ActiveCfg = Debug|x86
+		{C2D6C8C1-D73A-4211-8552-DDEE278AE283}.Debug|x86.Build.0 = Debug|x86
+		{C2D6C8C1-D73A-4211-8552-DDEE278AE283}.Release|x86.ActiveCfg = Release|x86
+		{C2D6C8C1-D73A-4211-8552-DDEE278AE283}.Release|x86.Build.0 = Release|x86
+		{69A0CBE9-14D4-49E7-A9C7-4E8B8BA7A7F8}.Debug|x86.ActiveCfg = Debug|x86
+		{69A0CBE9-14D4-49E7-A9C7-4E8B8BA7A7F8}.Debug|x86.Build.0 = Debug|x86
+		{69A0CBE9-14D4-49E7-A9C7-4E8B8BA7A7F8}.Release|x86.ActiveCfg = Release|x86
+		{69A0CBE9-14D4-49E7-A9C7-4E8B8BA7A7F8}.Release|x86.Build.0 = Release|x86
+		{8ADBEA23-A4AE-459A-AA70-F6D41710293F}.Debug|x86.ActiveCfg = Debug|x86
+		{8ADBEA23-A4AE-459A-AA70-F6D41710293F}.Debug|x86.Build.0 = Debug|x86
+		{8ADBEA23-A4AE-459A-AA70-F6D41710293F}.Release|x86.ActiveCfg = Release|x86
+		{8ADBEA23-A4AE-459A-AA70-F6D41710293F}.Release|x86.Build.0 = Release|x86
+		{CB242785-DADD-409F-A413-C7324D293638}.Debug|x86.ActiveCfg = Debug|x86
+		{CB242785-DADD-409F-A413-C7324D293638}.Debug|x86.Build.0 = Debug|x86
+		{CB242785-DADD-409F-A413-C7324D293638}.Release|x86.ActiveCfg = Release|x86
+		{CB242785-DADD-409F-A413-C7324D293638}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

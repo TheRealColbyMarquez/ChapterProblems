@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Commission\bin\Debug\Commission.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Commission\bin\Debug\Commission.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Commission\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Commission\obj\x86\Debug\Commission.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Commission\obj\x86\Debug\Commission.pdb

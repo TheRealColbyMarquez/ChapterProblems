@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Area\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Area\bin\Debug\Area.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Area\bin\Debug\Area.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Area\obj\x86\Debug\Area.exe
+C:\Users\eahscs\Documents\GitHub\ChapterProblems\Furniture\Area\obj\x86\Debug\Area.pdb
